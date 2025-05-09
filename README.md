@@ -23,3 +23,6 @@ Code Structure:
 - Student Structure: Define a structure to represent student information.
 - File Handling: Implement file handling functions to store and retrieve student data.
 - Menu-Driven Interface: Provide a menu-driven interface for users to interact with the application.
+
+
+
